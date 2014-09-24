@@ -10,7 +10,7 @@ class Arc42GrailsPlugin {
 
     // TODO Fill in these fields
     def title = "Grails Arc42 Plugin" // Headline display name of the plugin
-    def author = "Your name"
+    def author = "Ralf D. Müller"
     def authorEmail = ""
     def description = '''\
 Brief summary/description of the plugin.
@@ -22,7 +22,7 @@ Brief summary/description of the plugin.
     // Extra (optional) plugin metadata
 
     // License: one of 'APACHE', 'GPL2', 'GPL3'
-//    def license = "APACHE"
+    def license = "APACHE"
 
     // Details of company behind the plugin (if there is one)
 //    def organization = [ name: "My Company", url: "http://www.my-company.com/" ]
